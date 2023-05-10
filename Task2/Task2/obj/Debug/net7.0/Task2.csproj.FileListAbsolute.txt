@@ -1,0 +1,15 @@
+C:\module8_Task2\Task2\Task2\bin\Debug\net7.0\Task2.exe
+C:\module8_Task2\Task2\Task2\bin\Debug\net7.0\Task2.deps.json
+C:\module8_Task2\Task2\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+C:\module8_Task2\Task2\Task2\bin\Debug\net7.0\Task2.dll
+C:\module8_Task2\Task2\Task2\bin\Debug\net7.0\Task2.pdb
+C:\module8_Task2\Task2\Task2\obj\Debug\net7.0\Task2.csproj.AssemblyReference.cache
+C:\module8_Task2\Task2\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\module8_Task2\Task2\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+C:\module8_Task2\Task2\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+C:\module8_Task2\Task2\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+C:\module8_Task2\Task2\Task2\obj\Debug\net7.0\Task2.dll
+C:\module8_Task2\Task2\Task2\obj\Debug\net7.0\refint\Task2.dll
+C:\module8_Task2\Task2\Task2\obj\Debug\net7.0\Task2.pdb
+C:\module8_Task2\Task2\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+C:\module8_Task2\Task2\Task2\obj\Debug\net7.0\ref\Task2.dll
