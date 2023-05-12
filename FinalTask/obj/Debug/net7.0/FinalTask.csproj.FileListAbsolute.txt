@@ -1,0 +1,15 @@
+C:\HomeWork_Module_8\FinalTask\bin\Debug\net7.0\FinalTask.exe
+C:\HomeWork_Module_8\FinalTask\bin\Debug\net7.0\FinalTask.deps.json
+C:\HomeWork_Module_8\FinalTask\bin\Debug\net7.0\FinalTask.runtimeconfig.json
+C:\HomeWork_Module_8\FinalTask\bin\Debug\net7.0\FinalTask.dll
+C:\HomeWork_Module_8\FinalTask\bin\Debug\net7.0\FinalTask.pdb
+C:\HomeWork_Module_8\FinalTask\obj\Debug\net7.0\FinalTask.csproj.AssemblyReference.cache
+C:\HomeWork_Module_8\FinalTask\obj\Debug\net7.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork_Module_8\FinalTask\obj\Debug\net7.0\FinalTask.AssemblyInfoInputs.cache
+C:\HomeWork_Module_8\FinalTask\obj\Debug\net7.0\FinalTask.AssemblyInfo.cs
+C:\HomeWork_Module_8\FinalTask\obj\Debug\net7.0\FinalTask.csproj.CoreCompileInputs.cache
+C:\HomeWork_Module_8\FinalTask\obj\Debug\net7.0\FinalTask.dll
+C:\HomeWork_Module_8\FinalTask\obj\Debug\net7.0\refint\FinalTask.dll
+C:\HomeWork_Module_8\FinalTask\obj\Debug\net7.0\FinalTask.pdb
+C:\HomeWork_Module_8\FinalTask\obj\Debug\net7.0\FinalTask.genruntimeconfig.cache
+C:\HomeWork_Module_8\FinalTask\obj\Debug\net7.0\ref\FinalTask.dll
